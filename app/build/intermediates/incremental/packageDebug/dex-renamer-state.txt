@@ -1,0 +1,7 @@
+#Sun Nov 27 15:41:18 EST 2016
+base.0=C\:\\Users\\Taewoo Kim\\Downloads\\AR test2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0a75521e0a1276c644557d3b88dd3a3c86dd4e70
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Taewoo Kim\\Downloads\\AR test2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_531b07d4160481437301207080439d9e4c71d099\\classes.dex
+base.1=C\:\\Users\\Taewoo Kim\\Downloads\\AR test2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_531b07d4160481437301207080439d9e4c71d099
+file.0=C\:\\Users\\Taewoo Kim\\Downloads\\AR test2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0a75521e0a1276c644557d3b88dd3a3c86dd4e70\\classes.dex

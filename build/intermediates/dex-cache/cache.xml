@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_eb22b6852dcb37d08436dec6d988389042f7722e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f8521e9043dac2c99c877e60739a66c844e9fcd">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0a75521e0a1276c644557d3b88dd3a3c86dd4e70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f247b8da60eb8bfc5277a6322f35c81875de8a24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd4f26be7d7248ef9956ea6a95774bb0865484a5">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaUnityPlayer_578424d2b7521fde3a0059cc531333ae772c18ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_27e232c11bfaf5a047f3b9efbab5e825d698bb08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c069a74f9bf643fd3493eec4a58f062f05ee439">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_23b6205c7394e0ed80e20dde8563638cc7dce43a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_217a73fc4066eb91b7e9bf11fdf2d7401c0e5dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_61b87b160eacb1c66a1826e93fc815c52590ae2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d78fd6f512614dd10807fedda40700fe899f0a48">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_08df1baec2a78bb2b139d8099415a856f10a9c1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_815e6ab57a4c43edbf07257be02cc15f791b892c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3775ffe9ad12098a062229dae3dbd69f9db8800f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7b333631e0506ec60bb51f77c9910ad658956abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5e887e50638751d60accad00bca994beaa788b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_046cd99b4ea1f3bff1b7b2595a38389707088c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d63ef21b7942da2d570ec16ae0d248b16358b3e1">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_531b07d4160481437301207080439d9e4c71d099\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2363c2adbb511661620ebe6601595609f455d4ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7b174cd46c8b384db7baceb7df77c63fb4e6db21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_39b5d969673cd93fc0c28dadf2f761b5c1cb6a6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_fe8e1c5e2bc2ebc9ea2005e98fd29571169bbd90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Taewoo Kim\Downloads\AR test2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_524aeab16e6142940c643e1687050d6079d424a5\classes.dex" />
+    </item>
+
+</items>
